@@ -406,6 +406,7 @@
 				0D2A91FC1A55DDAA00A2EEE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0D2A91FD1A55DDAA00A2EEE3 /* Build configuration list for PBXNativeTarget "CollectionViewTutorialTests" */ = {
 			isa = XCConfigurationList;
@@ -414,6 +415,7 @@
 				0D2A91FF1A55DDAA00A2EEE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
